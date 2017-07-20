@@ -22,8 +22,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/aryangh/PWSH.git
+cd PWSH
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
@@ -37,7 +37,7 @@ screen ./autobd.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/aryangh/PWSH.git && cd PWSH && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 
 OR
 
